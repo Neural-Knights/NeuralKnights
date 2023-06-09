@@ -73,6 +73,9 @@ NEXT_PUBLIC_UNSPLASH_URLS=<Unsplash Access Token 2>
 Throughout the development of this project, several valuable lessons which we learned and honed skills:
 
 - Integration of advanced Intel libraries, including oneDAL and oneDNN, for building recommendation systems, Quiz Generation through text prompt and chatbots.
+- Learn about intel APIs and how it works.
+- Get hands-on Experience on intel liberaries like OneDNN & OneDAL and Optimise performance.
+- Also Learn how to use dev-Cloud works with step by step code execution in ipnb file.
 - Designing a modern and user-friendly UI using Next.js, React.js, and Tailwind CSS.
 - Implementing secure user authentication and authorization mechanisms using Node
   .js and Flask.
@@ -80,3 +83,7 @@ Throughout the development of this project, several valuable lessons which we le
 - Leveraging MongoDB for efficient storage and retrieval of user data.
 - Generating dynamic quizzes based on summarized text, enhancing user engagement and learning outcomes.
 - Deploying the application on the Vercel and Render platform for seamless access and scalability.
+
+## Medium Article :
+
+[Medium Article Link](https://medium.com/@anujmalviya850/transforming-education-with-ai-ml-empowering-personalized-learning-experiences-fef68244b51b)
