@@ -74,8 +74,8 @@ Throughout the development of this project, several valuable lessons which we le
 
 - Integration of advanced Intel libraries, including oneDAL and oneDNN, for building recommendation systems, Quiz Generation through text prompt and chatbots.
 - Learn about intel APIs and how it works.
-- Get hands-on Experience on intel liberaries like OneDNN & OneDAL and Optimise performance.
-- Also Learn how to use dev-Cloud works with step by step code execution in ipnb file.
+- Got hands-on Experience on intel liberaries like OneDNN & OneDAL and Optimise performance.
+- Also Learn how to use dev-Cloud works with step by step code execution of ipnb file.
 - Designing a modern and user-friendly UI using Next.js, React.js, and Tailwind CSS.
 - Implementing secure user authentication and authorization mechanisms using Node
   .js and Flask.
