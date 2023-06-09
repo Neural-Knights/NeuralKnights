@@ -79,7 +79,34 @@ NEXT_PUBLIC_UNSPLASH_URLS=<Unsplash Access Token 2>
 - Install dependencies: `pip install -r requirements.txt`
 
 ## **Optimization**
+We run the text summarization amd recommendation code with and without the Intel optimizations and the results and difference in execution time is shown below
 
+Recommendation system without intel optimizations
+
+![not optimized](https://github.com/Neural-Knights/Master_oneAPI/assets/75200824/dea0a49e-3147-4412-8938-b2dc2761105e)
+
+Recommendation system with Intel optimization
+
+![optimized](https://github.com/Neural-Knights/Master_oneAPI/assets/75200824/d84ff5e9-5f34-4bc9-949a-f2a77099be7a)
+
+Difference 
+
+![Recomendation](https://github.com/Neural-Knights/Master_oneAPI/assets/75200824/60b004c4-80d4-445d-bdea-ccc287528400)
+
+
+Text summarization without intel optimizations
+
+![summary unoptimized](https://github.com/Neural-Knights/Master_oneAPI/assets/75200824/f908a6e4-5257-4491-9e19-d061fdb361cc)
+
+Text summarization with intel optimizations
+
+![summary optimized](https://github.com/Neural-Knights/Master_oneAPI/assets/75200824/0178481d-6e1c-47d1-a8b5-3c44c48ea028)
+
+Difference 
+
+![summarization](https://github.com/Neural-Knights/Master_oneAPI/assets/75200824/94616e71-7619-4dee-b147-c940e8b6ef88)
+
+we can clearly notice the that the code with the intel optimizations executed faster than the code without optimizations
 ## **What I Learned:**
 
 Throughout the development of this project, several valuable lessons which we learned and honed skills:
