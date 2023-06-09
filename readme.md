@@ -17,10 +17,20 @@ This Prototype is focuses on innovation in education and incorporates several ke
 - **Authentication System:** A secure authentication system ensures safe access to user profiles and progress tracking, safeguarding sensitive information.
 - **Conference Meeting Creation:** _Currently in process_, Users can easily schedule and host virtual meetings or webinars within the platform, promoting collaboration and fostering interactive learning experiences.
 
+### Web App
+
+Landing Page [Authentication]
+
+![Landing_Page](./landing.png)
+
+Dashboard [Recommendation System ,ChatBot & Dynamic Schedule]
+
+![Dashboard](./dashboard.png)
+
 ## **Tech Stack:**
 
 - Front-end: Next.js, React.js, Tailwind CSS
-- Back-end: Node.js, Flask
+- Back-end: Node.js, Flask, Python
 - Database: MongoDB
 - Intel Libraries: Intel oneDAL, Intel oneDNN
 - Deployment: Vercel, Render
@@ -67,6 +77,8 @@ NEXT_PUBLIC_UNSPLASH_URLS=<Unsplash Access Token 2>
 ### Setup for Backend
 
 - Install dependencies: `pip install -r requirements.txt`
+
+## **Optimization**
 
 ## **What I Learned:**
 
