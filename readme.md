@@ -25,7 +25,7 @@ Landing Page [Authentication]
 
 Dashboard [Recommendation System ,ChatBot & Dynamic Schedule]
 
-![Dashboard](./dashboard.png)
+![image](https://github.com/Neural-Knights/Master_oneAPI/assets/97380192/366bb4a5-fbc3-40fb-aedf-f3489c501f9d)
 
 [Website_Link](
 https://nknights.vercel.app)
