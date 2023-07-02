@@ -110,6 +110,7 @@ Difference
 ![summarization](https://github.com/Neural-Knights/Master_oneAPI/assets/75200824/94616e71-7619-4dee-b147-c940e8b6ef88)
 
 we can clearly notice the that the code with the intel optimizations executed faster than the code without optimizations
+more optimisation are discussed in the seperate file `Intel optimizations benchmarking.pdf`
 ## **What I Learned:**
 
 Throughout the development of this project, several valuable lessons which we learned and honed skills:
