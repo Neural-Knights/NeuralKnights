@@ -4,8 +4,6 @@
 
 #### Problem Statement - Open Innovation in Education
 
-#### Team Leader Email - anujmalviya850@gmail.com
-
 ## **A Brief of the Prototype:**
 
 This Prototype is focuses on innovation in education and incorporates several key components to enhance learning experience of students and teachers. Currently, this prototype offers personalized recommendations, an interactive chatbot, quiz generation, and an intuitive user interface (UI).
