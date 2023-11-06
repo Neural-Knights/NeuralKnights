@@ -1,16 +1,13 @@
-# intel-oneAPI
+# Neural Knights: Student Learning Platform
 
-#### Team Name - Neural Knights
 
-#### Problem Statement - Open Innovation in Education
+## **A Brief of the Project:**
 
-## **A Brief of the Prototype:**
+This Project is focuses on innovation in education and incorporates several key components to enhance learning experience of students and teachers. Currently, this prototype offers personalized recommendations, an interactive chatbot, quiz generation, and an intuitive user interface (UI).
 
-This Prototype is focuses on innovation in education and incorporates several key components to enhance learning experience of students and teachers. Currently, this prototype offers personalized recommendations, an interactive chatbot, quiz generation, and an intuitive user interface (UI).
-
-- **Recommendation System:** Using Intel oneDAL library, Provides intelligent recommendations based on user preferences and learning history, ensuring a tailored learning experience.
-- **Personalized Chatbot**: Using Intel oneDNN library, the chatbot offers interactive and personalized guidance, answering questions and assisting users with their educational inquiries.
-- **Quiz Generation:** Utilizing the oneDNN library, the system generates quizzes based on summarized text, allowing users to assess their understanding and knowledge retention.
+- **Recommendation System:** Using Python libraries, Provides intelligent recommendations based on user preferences and learning history, ensuring a tailored learning experience.
+- **Personalized Chatbot**: Using python libraries, the chatbot offers interactive and personalized guidance, answering questions and assisting users with their educational inquiries.
+- **Quiz Generation:** Utilizing the python libraries, the system generates quizzes based on summarized text, allowing users to assess their understanding and knowledge retention.
 - **Interactive UI:** The user interface is designed to be intuitive and user-friendly, featuring seamless navigation, content browsing, and personalized recommendations to enhance the learning journey.
 - **Authentication System:** A secure authentication system ensures safe access to user profiles and progress tracking, safeguarding sensitive information.
 - **Conference Meeting Creation:** _Currently in process_, Users can easily schedule and host virtual meetings or webinars within the platform, promoting collaboration and fostering interactive learning experiences.
